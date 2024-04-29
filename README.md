@@ -1,6 +1,6 @@
 # Computer Graphics Projects
 Projects for CS2240 (Advanced Computer Graphics), Spring 2024. 
-> As per Brown's Academic Code, the actual source code cannot be made public, but will be available upon request. 
+- As per Brown's Academic Code, the actual source code cannot be made public, but will be available upon request. 
 
 # Path Tracer
 - Implemented a physically-based renderer based on the path tracing algorithm -- a simple, elegant Monte Carlo sampling approach to solving the rendering equation. 
