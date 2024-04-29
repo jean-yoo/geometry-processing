@@ -39,7 +39,12 @@ Mesh smoothing:
 # FEM (Finite Element Method)
 - Animation of deformable solid objects using the Finite Element Method (FEM). 
 - Divides a continuous chunk of material into a mesh made up of a finite number of discrete elements (tetrahedra). 
-- Simulation of physical-based obejcts through force computation, time integration, simple collision resolution, and user interactivity. 
+- Simulation of physical-based obejcts through force computation, time integration, simple collision resolution, and user interactivity.
+
+https://github.com/jean-yoo/graphics/assets/93178936/27bc3269-89c1-4454-94f1-f593d333057d
+
+
+
 
 # ARAP (As-Rigid-As-Possible Surface Modeling)
 - Implemented a system for user-interactive deformation of 3D meshes.
